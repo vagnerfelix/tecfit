@@ -1,0 +1,19 @@
+[28/Aug/2020:01:36:45] (I): WordPress Instance Info:
+[28/Aug/2020:01:36:45] (I): Home URL : http://localhost/wordpress
+[28/Aug/2020:01:36:45] (I): Site URL : http://localhost/wordpress
+[28/Aug/2020:01:36:45] (I): WordPress Version : 5.4.2
+[28/Aug/2020:01:36:45] (I): Onboarding Version : 1.0.9
+[28/Aug/2020:01:36:45] (I): Multisite : No
+[28/Aug/2020:01:36:45] (I): Server Info : Apache/2.4.46 (Win64) PHP/7.3.21
+[28/Aug/2020:01:36:45] (I): PHP Version : 7.3.21
+[28/Aug/2020:01:36:45] (I): HTTPS : No
+[28/Aug/2020:01:36:45] (I): PHP Max Execution Time : 120
+[28/Aug/2020:01:36:45] (I): PHP Max Input Vars : 2500
+[28/Aug/2020:01:36:45] (I): Max Upload Size : 2097152
+[28/Aug/2020:01:36:45] (I): Plugins:
+[28/Aug/2020:01:36:45] (I): [PLUGIN] Classic Editor : v1.6 (WordPress Contributors)
+[28/Aug/2020:01:36:45] (I): [PLUGIN] Elementor : v3.0.2 (Elementor.com)
+[28/Aug/2020:01:36:45] (I): [PLUGIN] Microthemer : v6.2.4.9 (Themeover)
+[28/Aug/2020:01:36:45] (I): [PLUGIN] Templates Patterns Collection : v1.0.9 (ThemeIsle)
+[28/Aug/2020:01:36:45] (I): [PLUGIN] Orbit Fox Companion : v2.9.16 (Themeisle)
+[28/Aug/2020:01:36:45] (I): [PLUGIN] Ultimate Addons for Gutenberg : v1.17.0 (Brainstorm Force)
